@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo/course2agent_logo.png" alt="Course2Agent logo" width="760" />
+</p>
+
 # Course2Agent: Reimagining Courses as Interactive AI Tutors
 
 ## 📖 Overview
