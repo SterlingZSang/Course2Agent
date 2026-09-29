@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course2Agent"
+  short_description: "Turn course materials into grounded teaching agents"
+  default_prompt: "Use $course2agent to convert these course materials into a cited course skill and retrieval MCP server."
